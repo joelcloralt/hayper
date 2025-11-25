@@ -1,11 +1,6 @@
-# Hayper
+# Hayper Releases
 
-Desktop application for AI-powered meeting transcript analysis.
+Last updated: 2025-11-25 02:02:03 UTC
 
-## Download
-
-Download the latest release from the [Releases](https://github.com/joelcloralt/hayper/releases) page.
-
-## Auto-Updates
-
-The app includes built-in auto-update functionality.
+This repository contains release artifacts for Hayper Desktop.
+Download the latest version from the [Releases](https://github.com/joelcloralt/hayper/releases) page.
